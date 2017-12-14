@@ -1,0 +1,12 @@
+E:\Data\All_Projects\ShutterStockQueueTracker\ShutterStockQueueTracker\bin\Release\ShutterStockQueueTracker.exe.config
+E:\Data\All_Projects\ShutterStockQueueTracker\ShutterStockQueueTracker\bin\Release\ShutterStockQueueTracker.exe
+E:\Data\All_Projects\ShutterStockQueueTracker\ShutterStockQueueTracker\bin\Release\ShutterStockQueueTracker.pdb
+E:\Data\All_Projects\ShutterStockQueueTracker\ShutterStockQueueTracker\bin\Release\HtmlAgilityPack.dll
+E:\Data\All_Projects\ShutterStockQueueTracker\ShutterStockQueueTracker\bin\Release\HtmlAgilityPack.pdb
+E:\Data\All_Projects\ShutterStockQueueTracker\ShutterStockQueueTracker\bin\Release\HtmlAgilityPack.xml
+E:\Data\All_Projects\ShutterStockQueueTracker\ShutterStockQueueTracker\obj\Release\ShutterStockQueueTracker.Form1.resources
+E:\Data\All_Projects\ShutterStockQueueTracker\ShutterStockQueueTracker\obj\Release\ShutterStockQueueTracker.Properties.Resources.resources
+E:\Data\All_Projects\ShutterStockQueueTracker\ShutterStockQueueTracker\obj\Release\ShutterStockQueueTracker.csproj.GenerateResource.Cache
+E:\Data\All_Projects\ShutterStockQueueTracker\ShutterStockQueueTracker\obj\Release\ShutterStockQueueTracker.exe
+E:\Data\All_Projects\ShutterStockQueueTracker\ShutterStockQueueTracker\obj\Release\ShutterStockQueueTracker.pdb
+E:\Data\All_Projects\ShutterStockQueueTracker\ShutterStockQueueTracker\obj\Release\ShutterStockQueueTracker.csprojResolveAssemblyReference.cache
